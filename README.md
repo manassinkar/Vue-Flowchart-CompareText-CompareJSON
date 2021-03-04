@@ -1,10 +1,5 @@
 # Vue-Flowchart-CompareText-CompareJSON
 
-# Demo Link:
-```
-https://flowchart-compare-text-json.web.app/
-```
-
 ## Project setup
 ```
 npm install
@@ -27,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## See [Demo](https://flowchart-compare-text-json.web.app/).
